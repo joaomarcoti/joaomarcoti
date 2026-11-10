@@ -2,7 +2,7 @@
 
 🎓 Estudante de Sistemas de Informação - 4º período.
 💻 Interessado em tecnologia, programação e desenvolvimento de software.
-🚀 Atualmente, estou desenvolvendo meus conhecimentos em programação.
+ Atualmente, estou desenvolvendo meus conhecimentos em programação.
 
 ### Tecnologias e conhecimentos
 
