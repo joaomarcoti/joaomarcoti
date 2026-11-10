@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! Eu sou João Marco 👋
 
-<!--
-**joaomarcoti/joaomarcoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação - 4º período.
+💻 Interessado em tecnologia, programação e desenvolvimento de software.
+🚀 Atualmente, estou desenvolvendo meus conhecimentos em programação.
 
-Here are some ideas to get you started:
+### Tecnologias e conhecimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- JavaScript
+- HTML
+- C++
+- Entendimento básico de bancos de dados.
+- Conhecimento em desenvolvimento de software.
+
+### Objetivos
+
+- Desenvolver projetos práticos.
+- Aprimorar minha lógica de programação.
+- Aprender novas tecnologias.
+- Construir experiência profissional na área de TI.
+
+### Contato
+
+- LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-marco-soares-rodrigues-12a140429/
