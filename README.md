@@ -19,7 +19,3 @@
 - Aprimorar minha lógica de programação.
 - Aprender novas tecnologias.
 - Construir experiência profissional na área de TI.
-
-### Contato
-
-- LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-marco-soares-rodrigues-12a140429/
