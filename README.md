@@ -9,7 +9,7 @@
 - Python
 - JavaScript
 - HTML
-- C++
+- SQL
 - Entendimento básico de bancos de dados.
 - Conhecimento em desenvolvimento de software.
 
